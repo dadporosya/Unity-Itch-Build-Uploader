@@ -1,0 +1,17 @@
+{
+  "name": "com.unitytools.itch-build-uploader",
+  "version": "1.0.0",
+  "displayName": "Itch.io Build Uploader",
+  "description": "Uploads every Unity build to your itch.io game page automatically, replacing the existing build of the same platform.",
+  "unity": "2021.3",
+  "author": {
+    "name": "II-P"
+  },
+  "keywords": [
+    "itch",
+    "itch.io",
+    "butler",
+    "build",
+    "upload"
+  ]
+}
